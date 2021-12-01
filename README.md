@@ -5,12 +5,18 @@ Gender and Age Detection using Webcam
 ##Libraries and Modules used
 
 > opencv==3.3.0
-> numpy==1.14.0
-> imutils==0.4.6
+> python 3.9
+> IDE Google Colaboratory 
 
 ##Requirements 
 > !git clone https://github.com/misbah4064/age_and_gender_detection.git
 > %cd age_and_gender_detection
+
+Order of code:
+Detect Faces
+Detect Gender
+Detect Age
+Display output
 
 ##References
 [LearnOpenCV](https://learnopencv.com/age-gender-classification-using-opencv-deep-learning-c-python/)
